@@ -12,22 +12,22 @@ Launch to a web page.
 
 In the cmder create virtual environment:  
 
-$ install python -m venv venv   
-$ venv\Scripts\activate.bat    
-$ pip freeze  
-$ pip freeze>requirements.txt  
-$ pip install flash  
-$ set FLASH_APP (=server name)  
+* install python -m venv venv   
+*  venv\Scripts\activate.bat    
+*  pip freeze  
+* pip freeze>requirements.txt  
+* pip install flash  
+* set FLASH_APP (=server name)  
 
 ### Add ins
-$ pip install flash mysql.connector (allows mariadb and studio code and html interact with the databases.)
+* pip install flash mysql.connector (allows mariadb and studio code and html interact with the databases.)
     this came installed with wampserver.
 
 
 The following commands can be ran in cmder to run the programme:
 
-$ python server1.py or 
-$ flask run(this was the preferred)
+* python server1.py or   
+* flask run(this was the preferred)
 
 The Following was outputted:
 C:\Users\Owner\Desktop\project
