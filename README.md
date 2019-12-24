@@ -3,9 +3,9 @@
 
 ## Building the project:
 
-The first step was to develop the environment with Flask
-Then server
-Then build the CRUD
+The first step was to develop the environment with Flask.
+Then server.
+Then build the CRUD.
 Launch to a web page.
 
 ### Requirements:
